@@ -5,7 +5,5 @@
 // змінні перша буква, далі цифри, долар\ регістр! : 
 // наступні слова в змінній зВеликоїБукви 
 var leftBorderWidth = 1;
-{let second = 2;
-    console.log(second);}
-const pi = 3.14;
 
+var pi = 3.14;
